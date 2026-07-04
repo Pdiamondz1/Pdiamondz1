@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Harbormill Automation" width="340">
+</p>
+
 ### Hi, I'm Damon Williams 👋
 
 **Founder of [Harbormill Automation](https://harbormill.net)** — I build practical AI automation that small businesses can actually trust.
