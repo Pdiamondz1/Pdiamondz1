@@ -6,9 +6,10 @@
 
 **Founder of [Harbormill Automation](https://harbormill.net)** — I build practical AI automation that small businesses can actually trust.
 
-15 years as an enterprise IT senior network engineer — building and securing the networks companies like Nike and Assurant run on — taught me to build systems that are safe to leave running. Now I bring that same discipline to AI automation: least-access by default, reliability first, and your data staying yours.
+15 years as an enterprise IT senior network engineer — building and securing the networks companies like Nike and Assurant run on — taught me to build systems that are safe to leave running. Now I bring that same discipline to AI automation: least-access by default, reliability first, and your data staying yours. And because AI changes every month, I build for **outcomes, not tools** — systems that ride every AI leap instead of getting obsoleted by it.
 
 **What I'm building**
+- 🎯 **Big Dreem** — an AI pitch-deck coach that turns a founder's raw business into an investor-ready story. *(live: [bigdreem.vercel.app](https://bigdreem.vercel.app))*
 - 🧭 **Harbormill AIOS** — a white-label AI operating dashboard: live metrics + an assistant that answers from your own data. *(React · TypeScript · Supabase · Anthropic Claude)*
 - 🧰 **AIS-OS** — an open-source (MIT) starter kit for building a personal AI operating system.
 - 🏗️ **HMA Project Foundation** — a multi-agent system that takes products from idea to ship.
